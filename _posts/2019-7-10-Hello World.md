@@ -11,11 +11,13 @@ tags:                               #标签
 
 ---
 
+------
+
 
 
 ```java
 public static void main(String[] args) {
-		System.out.println("Hello World!");
+	System.out.println("Hello World!");
 }
 ```
 
@@ -47,7 +49,7 @@ public static void main(String[] args) {
 
 至于搭建Blog的目的🧐，很简单，记录学习、生活和兴趣。
 
-作为一个将来的程序员，我认为拥有一个个人技术博客还是很有必要的，当然不一定要自己搭建，在诸如CSDN、博客园、简书等平台都可以的，关键在于坚持写博文（逃…
+作为一只未来的程序猿，我认为拥有一个技术博客还是很有必要的，当然不一定要自己搭建，在诸如CSDN、博客园、简书等平台都可以的，关键在于坚持写博文（逃…
 
 那有人就要说了，`既然可以在别的平台发布，为什么要自己搭建？`
 
@@ -61,7 +63,7 @@ public static void main(String[] args) {
 
 
 
-哈哈，不扯了，以后会不定期在这里更新我的学习记录，如果发现我和你有相同的兴趣爱好或者技术栈，欢迎一起学习讨论！
+哈哈，不扯了，以后会不定期在这里更新我的学习记录，前期的博文主要是一些没什么技术的分享，后面会有真正的技术博文，所以，如果发现我和你有相同的兴趣爱好或者技术栈，欢迎一起学习讨论！
 
 可以通过邮箱👉[tunglee0328@gmail.com](tunglee0328@gmail.com)或者电报👉[Liam Turner](https://t.me/LiamTurner) 与我取得联系。
 
